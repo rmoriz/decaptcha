@@ -14,4 +14,4 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2010 Roland Moriz. See LICENSE for details.
+Copyright (c) 2010 Dirty Sánchez. See LICENSE for details.

@@ -1,6 +1,9 @@
 = decaptcha
 
-Description goes here.
+The idea is to create a multi captcha-solving-service client.
+Currently (September 2010) only one service is supported, and 
+I'm not satisfied with the code or the specs at all.
+Maybe I'll fix it in the future, let's see.
 
 == Note on Patches/Pull Requests
  

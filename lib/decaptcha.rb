@@ -9,5 +9,5 @@ require 'decaptcha/response'
 require 'decaptcha/client'
 
 module Decaptcha
-
+  VERSION = "0.0.0"
 end
